@@ -1,6 +1,6 @@
 //
 //  GradientCircleViewView.swift
-//  AnimatedCircles
+//  AnimatingCircles
 //
 //  Created by Gabriela.sillis on 03/12/24.
 //
